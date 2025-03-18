@@ -1,2 +1,2 @@
 # titanic
-My first ml project
+My first ML project
